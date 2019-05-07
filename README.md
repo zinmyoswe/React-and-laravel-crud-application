@@ -1,7 +1,12 @@
 # React-and-laravel-crud-application
 React and laravel crud application with axios
 
+
 ![image](https://user-images.githubusercontent.com/29988949/57271944-39210e00-7046-11e9-98ba-e12d3568fa2a.png)
+
+
+![image](https://user-images.githubusercontent.com/29988949/57272395-68387f00-7048-11e9-9836-59c244ecc1bd.png)
+`Update Page`
 
 ## Installation
  - Clone the repo git clone (https://github.com/zinmyoswe/React-and-laravel-crud-application.git).
